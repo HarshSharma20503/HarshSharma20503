@@ -22,9 +22,9 @@ I'm a pre-final year student pursuing Computer Science and Engineering at JIIT.
 
 ## Profiles
 
-- [LinkedIn](https://www.linkedin.com/in/harshsharma20503/)
 - [Codeforces](https://codeforces.com/profile/XoXoHarsh)
 - [LeetCode](https://leetcode.com/XoXoHarsh/)
+- [Hackerrank](https://www.hackerrank.com/harshsharma20503)
 
 ## Prominent Projects
 

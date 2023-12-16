@@ -30,7 +30,7 @@ I'm a pre-final year student pursuing Computer Science and Engineering at JIIT.
 
 - [Project 1](https://github.com/HarshSharma20503/Concadmic): Student-focused platform offering academic resources, insightful blogs from seniors, and a networking hub, with event updates for colleges, enhancing collaboration and accessibility for students.
 - [Project 2](https://github.com/jiitopticachapter/optica-website-2023): An official website is the face of any organization. This website has been built to act as a point of contact between JIIT Optica Chapter and all the students who are interested in being a part of it in the future. This website also provides the details of past events to our sponsors.
-- [Project 3](https://github.com/HarshSharma20503/Employee-Record-Management-System): Implemented in C++, it allows users to perform various operations related to employee records, such as inserting, deleting, searching, modifying, and viewing employee records.
+- [Project 3](https://github.com/HarshSharma20503/CodersHub): CodersHub streamlines mobile coding by consolidating profiles and daily problems from platforms like LeetCode, Gfg and Codeforces, eliminating the need for screenshots or frequent browser logins. The user-friendly interface ensures a seamless experience without switching between apps.
 
 ## Reach Me
 

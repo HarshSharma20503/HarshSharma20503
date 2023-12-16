@@ -10,12 +10,7 @@
 📚 Always eager to learn and explore new horizons, I am on the lookout for opportunities that not only challenge my technical prowess but also inspire continuous growth.
 
 Let's connect and build something great together! 💡✨ 
-  
-# Profiles
 
-- [Codeforces](https://codeforces.com/profile/XoXoHarsh)
-- [LeetCode](https://leetcode.com/XoXoHarsh/)
-- [Hackerrank](https://www.hackerrank.com/harshsharma20503)
 <br/>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshSharma20503&label=Profile%20views&color=0e75b6&style=flat" alt="HarshSharma20503" /> </p>
@@ -25,18 +20,33 @@ Let's connect and build something great together! 💡✨
 
 - 📫 How to reach me: **Harshsharma20503@gmail.com**
 
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/x_harsh.sharma_x/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshsharma20503/) 
+<br/> 
+
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-%23000000?style=for-the-badge&logo=Android&logoColor=white) ![GIT](https://img.shields.io/badge/Git-%23E34F26?style=for-the-badge&logo=Git&logoColor=black)
+<br/>
 
-# Prominent Projects
+
+# 👨‍💻 Prominent Projects:
 
 - [Concadmic](https://github.com/HarshSharma20503/Concadmic): A student-focused platform offering academic resources, insightful blogs from seniors, and a networking hub, with event updates for colleges, enhancing collaboration and accessibility for students.
-- [Optica Website](https://github.com/jiitopticachapter/optica-website-2023): The official website of JIIT Optica Chapter, serving as a point of contact and providing details of past events to sponsors.
+- [Optica Website](https://github.com/jiitopticachapter/optica-website-2023): The official website of the JIIT Optica Chapter, serving as a point of contact and providing details of past events to sponsors.
 - [CodersHub](https://github.com/HarshSharma20503/CodersHub): Streamlining mobile coding by consolidating profiles and daily problems from platforms like LeetCode, Gfg, and Codeforces, eliminating the need for screenshots or frequent browser logins. The user-friendly interface ensures a seamless experience without switching between apps.
-  
+
+
+# 👤 Profiles:
+
+- [Codeforces](https://codeforces.com/profile/XoXoHarsh): Specialist (Max-Rating - 1464), Solved 400+ Problems.
+- [LeetCode](https://leetcode.com/XoXoHarsh/): Knight (Max-Rating- 1964), Solved 500+ Problems.
+- [Hackerrank](https://www.hackerrank.com/harshsharma20503): 6 Star Problem Solving, 5 Star in C++.
+  <br/> 
+
+
 # 📊 GitHub Stats:
 
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=HarshSharma20503&show_icons=true&theme=radical" />

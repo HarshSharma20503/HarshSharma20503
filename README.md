@@ -40,15 +40,15 @@ Let's connect and build something great together! 💡✨
 # 📊 GitHub Stats:
 
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=HarshSharma20503&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Xaverick&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=HarshSharma20503&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 </div>
 
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=HarshSharma20503&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Xaverick&theme=dark&hide_border=false" />
+ <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshSharma20503&theme=dark&hide_border=false" />
 </div>
 
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=HarshSharma20503&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaverick&theme=radical&layout=compact" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharma20503&theme=radical&layout=compact" />
 </div>
 
 

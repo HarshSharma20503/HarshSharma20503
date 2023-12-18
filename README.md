@@ -11,7 +11,6 @@
 📚 Always eager to learn and explore new horizons, I am on the lookout for opportunities that not only challenge my technical prowess but also inspire continuous growth.
 
 Let's connect and build something great together! 💡✨ 
-
 <br/>  
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshSharma20503&label=Profile%20views&color=0e75b6&style=flat" alt="HarshSharma20503" /> </p>

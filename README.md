@@ -2,7 +2,7 @@
 
 
 ### Glad to see you here!  
-🚀 Aspiring Software Developer (SDE) and currently in my pre-final year pursuing a B.Tech in Computer Science and Engineering. I thrive on turning ideas into reality and have a strong foundation in various technologies.
+🚀 Aspiring Software Developer (SDE) currently in pre-final year pursuing a B.Tech in Computer Science and Engineering. Grateful for the journey of learning and excited about the opportunities ahead in the world of software development.
 
 💻 My project experience spans a tech stack that includes React JS, Next JS, Firebase, and Android Development in JAVA. These experiences have honed my skills in creating web and mobile applications that are both functional and user-friendly.
 

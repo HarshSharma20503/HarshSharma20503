@@ -32,14 +32,6 @@ Let's connect and build something great together! 💡✨
 
 <br/>
 
-# 👨‍💻 Prominent Projects:
-
-- [Concadmic](https://github.com/HarshSharma20503/Concadmic): A student-focused platform offering academic resources, insightful blogs from seniors, and a networking hub, with event updates for colleges, enhancing collaboration and accessibility for students.
-- [Optica Website](https://github.com/jiitopticachapter/optica-website-2023): The official website of the JIIT Optica Chapter, serving as a point of contact and providing details of past events to sponsors.
-- [CodersHub](https://github.com/HarshSharma20503/CodersHub): Streamlining mobile coding by consolidating profiles and daily problems from platforms like LeetCode, Gfg, and Codeforces, eliminating the need for screenshots or frequent browser logins. The user-friendly interface ensures a seamless experience without switching between apps.
-
-<br/>
-
 # 👤 Profiles:
 
 - [Codeforces](https://codeforces.com/profile/XoXoHarsh): Specialist (Max-Rating - 1464), Solved 400+ Problems.

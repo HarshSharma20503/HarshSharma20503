@@ -34,7 +34,7 @@ Let's connect and build something great together! 💡✨
 
 # 👤 Profiles:
 
-- [Codeforces](https://codeforces.com/profile/XoXoHarsh): Specialist (Max-Rating - 1464), Solved 400+ Problems.
+- [Codeforces](https://codeforces.com/profile/XoXoHarsh): Specialist (Max-Rating - 1556), Solved 450+ Problems.
 - [LeetCode](https://leetcode.com/XoXoHarsh/): Knight (Max-Rating- 1964), Solved 500+ Problems.
 - [Hackerrank](https://www.hackerrank.com/harshsharma20503): 6 Star Problem Solving, 5 Star in C++.
 

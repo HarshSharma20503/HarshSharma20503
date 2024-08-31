@@ -4,11 +4,7 @@
 ### Glad to see you here!  
 🚀 Aspiring Software Developer (SDE) currently in final year pursuing a B.Tech in Computer Science and Engineering. Grateful for the journey of learning and excited about the opportunities ahead in the world of software development.
 
-💻 My project experience spans a tech stack that includes React JS, Next JS, Firebase, and Android Development in JAVA. These experiences have honed my skills in creating web and mobile applications that are both functional and user-friendly.
-
-</> On the competitive programming front, I've achieved decent and high ratings on platforms like Codeforces and LeetCode. The thrill of problem-solving and the competitive drive to improve constantly fuel my passion for coding.
-
-📚 Always eager to learn and explore new horizons, I am looking for opportunities that challenge my technical prowess and inspire continuous growth.
+📚 Always eager to learn and explore new horizons, I seek opportunities that challenge my technical prowess and inspire continuous growth.
 
 Let's connect and build something great together! 💡✨ 
 <br/>

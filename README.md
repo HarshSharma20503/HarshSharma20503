@@ -1,10 +1,7 @@
 ![MasterHead](https://github.com/HarshSharma20503/HarshSharma20503/assets/99866531/30c42adc-a147-41c5-9d60-01310f2423fe)
 
 
-### Glad to see you here!  
-🚀 Aspiring Software Developer (SDE) currently in final year pursuing a B.Tech in Computer Science and Engineering. Grateful for the journey of learning and excited about the opportunities ahead in the world of software development.
-
-📚 Always eager to learn and explore new horizons, I seek opportunities that challenge my technical prowess and inspire continuous growth.
+### Glad to see you here! 
 
 Let's connect and build something great together! 💡✨ 
 <br/>

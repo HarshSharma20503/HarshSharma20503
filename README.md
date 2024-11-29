@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/HarshSharma20503/HarshSharma20503/assets/99866531/30c42adc-a147-41c5-9d60-01310f2423fe)
+![GITHUB BANNER](https://github.com/user-attachments/assets/be56defe-65fd-4ff4-a079-1f6e6aef8fdc)
 
 
-### Glad to see you here! 
+### HI 👋, I'M HARSH SHARMA 
 
 Let's connect and build something great together! 💡✨ 
 <br/>

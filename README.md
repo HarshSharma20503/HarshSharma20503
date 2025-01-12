@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Harsh+Sharma;Upcoming+Google+SWE;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Harsh+Sharma;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
 </div>
 
 Full Stack Developer who loves to tinker with code 🔧.

@@ -20,9 +20,9 @@
 
 Full Stack Developer who loves to tinker with code 🔧.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshsharma20503/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xoxoharsh/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/x_harsh.sharma_x/)
-[![Profile Views](https://komarev.com/ghpvc/?username=HarshSharma20503&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/HarshSharma20503)
+[![Profile Views](https://komarev.com/ghpvc/?username=XoXoHarsh&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/XoXoHarsh)
 
 - 💬 Ask me about anything related to Technology, if I don't know about it, I would be interested in learning more!
 - 📫 Reach me at: **Harshsharma20503@gmail.com**
@@ -45,23 +45,3 @@ npx @xoxoharsh/terminal-portfolio
 | **Browser Extensions** | ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=Github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black) |
 
-## 🏆 Coding Profiles
-
-<p align="center">
-  <a href="https://codeforces.com/profile/XoXoHarsh">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=xoxoharsh" alt="Codeforces Profile" width="32%" />
-  </a>
-  <a href="https://leetcode.com/XoXoHarsh/">
-    <img src="https://leetcard.jacoblin.cool/xoxoharsh?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile" width="32%" />
-  </a>
-  <a href="https://linktr.ee/XoXoHarsh">
-    <img src="https://github.com/user-attachments/assets/e9918184-135f-454d-8423-2e6636dc5dee" alt="View all Profiles" width="32%" />
-  </a>
-</p>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshsharma20503&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=harshsharma20503&count_private=true&theme=react&border_radius=10" alt="Streak Stats" />
-</div>
